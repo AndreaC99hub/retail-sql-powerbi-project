@@ -27,6 +27,7 @@ December 2011 includes only the first nine days. Its lower total should not be i
 ### 4. Product rankings need to distinguish merchandise from charges
 
 REGENCY CAKESTAND 3 TIER generated £164,459 in Net Sales, making it the highest-value merchandise stock code in the analysis.
+
 DOTCOM POSTAGE generated £206,245, but represents a delivery charge rather than a product. Including it without explanation would distort a merchandise ranking.
 
 This highlights the importance of reviewing transaction meaning alongside numerical rankings.
