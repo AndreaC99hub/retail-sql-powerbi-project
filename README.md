@@ -3,6 +3,15 @@
 
 An analysis of sales performance, customer concentration and cancellations for a UK online retailer, covering December 2010 to December 2011.
 
+### Sales Overview
+![Sales Overview](images/Sales_Overview.png)
+
+### Products and Customers
+![Products and Customers](images/Products_&_Customers.png)
+
+### Cancellations and Adjustments
+![Cancellations and Adjustments](images/Cancellations_and_Adjustments.png)
+
 ## Main Findings
 
 ### 1. Cancellations materially change the sales picture
